@@ -1,5 +1,7 @@
 # BlueStacks-New
 
+<img src="https://github.com/LemMoon98/BlueStacks-New/blob/main/BS.png"/>
+
 _________
 🔥🔥🔥 **A powerful and free Android emulator for Windows**
 _________
@@ -10,3 +12,15 @@ _________
 
 ## ***BlueStacks is available for the latest versions of Windows, and it is even optimized for Windows 11. Additionally, the program is multilingual, and you can select Spanish to run it.***
 
+<img src="https://github.com/LemMoon98/BlueStacks-New/blob/main/BSDL.png"/>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
